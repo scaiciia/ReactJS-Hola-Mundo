@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import { Contacto } from '../../models/contacto';
+import { Contacto } from '../../models/contacto.class';
 
 
 const ComponenteB = ({ contacto }) => {

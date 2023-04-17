@@ -1,5 +1,5 @@
 import React from 'react';
-import { Contacto } from '../../models/contacto';
+import { Contacto } from '../../models/contacto.class';
 import ComponenteB from '../pure/componenteB';
 
 
